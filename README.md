@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3>🎓 Education</h3>
+<h2>🎓 Education</h2>
 <p>
     <strong>🇺🇸 Indiana University of Bloomington</strong>
     <br>
@@ -62,7 +62,6 @@ Here are some ideas to get you started:
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="GoLang" src="https://img.shields.io/badge/GoLang-00ADD8.svg?logo=go&logoColor=white"></a>
 </p>
-
 <h3>🧰 Developer Tools</h3>
 <p>
     <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
@@ -73,7 +72,6 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?logo=swagger&logoColor=white"></a>
     <a href="#"><img alt="Azure Dashboards" src="https://img.shields.io/badge/Azure_Dashboards-0089D6.svg?logo=microsoft-azure&logoColor=white"></a>
 </p>
-
 <h3>☁️ Cloud Technologies</h3>
 <p>
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white"></a>
@@ -89,7 +87,6 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939.svg?logo=jenkins&logoColor=white"></a>
     <a href="#"><img alt="Puppet" src="https://img.shields.io/badge/Puppet-FFAE1A.svg?logo=puppet&logoColor=white"></a>
 </p>
-
 <h3>🧩 Technologies & Frameworks</h3>
 <p>
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"></a>
@@ -102,13 +99,12 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75.svg?logo=apache&logoColor=black"></a>
     <a href="#"><img alt="Agile Framework" src="https://img.shields.io/badge/Agile_Framework-009FDA.svg?logo=agile&logoColor=white"></a>
 </p>
-
 <h3>📊 Database Management</h3>
 <p>
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
-<h3>🏆 Certifications</h3>
+<h2>🏆 Certifications</h2>
 <p>
     <a href="https://www.credly.com/badges/9b97ecf4-64cf-4130-aef5-c365c738e435/public_url" target="_blank">
         <img alt="AZ-900" src="https://img.shields.io/badge/AZ_900-Azure_Fundamentals-FFD700?logo=microsoft-azure&logoColor=white">
@@ -128,6 +124,5 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-<details>
- <summary><h3>👩🏻‍💻 Sushma's Coding Journey</h3></summary>
-<!--    I -->
+<!-- <details>
+ <summary><h2>👩🏻‍💻 Sushma's Coding Journey</h2></summary> I -->
