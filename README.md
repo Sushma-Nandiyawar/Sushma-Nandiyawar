@@ -31,11 +31,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>🎓 Education</h2>
+<hr>
 <p>
     <strong>🇺🇸 Indiana University of Bloomington</strong>
-    <br>
     Master of Science in Computer Science
-    <em>CGPA: 3.8/4</em>
     <br>
     Indiana, USA
     <br>
@@ -53,6 +52,7 @@ Here are some ideas to get you started:
 </p>
 <summary>
   <h2>🛠️ Technical Skills</h2>
+  <hr>
 </summary>
 <h3>👩🏻‍💻 Programming and Markup Languages</h3>
 <p>
@@ -109,6 +109,7 @@ Here are some ideas to get you started:
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 <h2>🏆 Certifications</h2>
+<hr>
 <p>
     <a href="https://www.credly.com/badges/9b97ecf4-64cf-4130-aef5-c365c738e435/public_url" target="_blank">
         <img alt="AZ-900" src="https://img.shields.io/badge/AZ_900-Azure_Fundamentals-FFD700?logo=microsoft-azure&logoColor=white">
@@ -127,15 +128,14 @@ Here are some ideas to get you started:
         &rarr;
     </a>
 </p>
-## 📈 GitHub Stats
-
+<h2>📈 GitHub Stats</h2>
+<hr>
 <p align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sushma-Nandiyawar&show_icons=true&theme=dark" />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushma-Nandiyawar&theme=dark&hide_border=true" />
 </p>
-
-## 🔝 Languages Stats
-
+<h2>🔝 Languages Stats</h2>
+<hr>
 <p align="center">
 <img alt="most_used_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushma-Nandiyawar&layout=compact&theme=dark&langs_count=10" />
 <div align="center">
