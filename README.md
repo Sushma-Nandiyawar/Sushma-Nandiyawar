@@ -1,4 +1,8 @@
-<h2>Hi there 👋</h2>
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/Sushma-Nandiyawar/Sushma-Nandiyawar/blob/main/Hi.gif" width="30"></h2>
+</div>
+    
+<!-- <h2>Hi there 👋</h2> -->
 <p>
     I am Sushma Nandiyawar, a highly motivated and skilled Computer Engineer with a strong passion for cloud technologies and software development. I possess a Master of Science in Computer Science from Indiana University, Bloomington and a Bachelor of Engineering in Computer Science. Throughout my academic and professional career, I have consistently demonstrated a talent for applying my technical expertise to solve complex problems and deliver impactful results.
 </p>
