@@ -8,6 +8,12 @@
 <p>
     I am eager to leverage my technical proficiency, problem-solving skills, and unwavering dedication to excellence to contribute significantly to your organization.
 </p>
+<p>
+    Connect with me on 
+    <a href="https://www.linkedin.com/in/sushmanandiyawar" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>.
+</p>
 <!--
 **Sushma-Nandiyawar/Sushma-Nandiyawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -125,5 +131,3 @@ Here are some ideas to get you started:
 <details>
  <summary><h3>👩🏻‍💻 Sushma's Coding Journey</h3></summary>
 <!--    I -->
-### MY Social Profiles:
-* [Linkedln](https://www.linkedin.com/in/shubhangi-dabral-b79705145/)
