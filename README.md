@@ -113,7 +113,7 @@ Here are some ideas to get you started:
 </p>
 <p>
     <a href="https://www.credly.com/badges/8dd62112-4516-4c48-938a-de804cfe59c1/public_url" target="_blank">
-        <img alt="SC-900" src="https://img.shields.io/badge/SC_900-Azure_Security_Fundamanetals-FFD700?logo=security&logoColor=white">
+        <img alt="SC-900" src="https://img.shields.io/badge/SC_900-Security_Compliance_and_Identity_Fundamentals-FFD700?logo=security&logoColor=white">
         &rarr;
     </a>
 </p>
