@@ -123,6 +123,21 @@ Here are some ideas to get you started:
         &rarr;
     </a>
 </p>
+## 📈 GitHub Stats
 
+<p align="center">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sushma-Nandiyawar&show_icons=true&theme=dark" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushma-Nandiyawar&theme=dark&hide_border=true" />
+</p>
+
+## 🔝 Languages Stats
+
+<p align="center">
+<img alt="most_used_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushma-Nandiyawar&layout=compact&theme=dark&langs_count=10" />
+<div align="center">
+    <a href="#">
+        <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Sushma-Nandiyawar&color=lightgrey&style=plastic&&label=Profile+Views">
+    </a>
+</div>
 <!-- <details>
  <summary><h2>👩🏻‍💻 Sushma's Coding Journey</h2></summary> I -->
