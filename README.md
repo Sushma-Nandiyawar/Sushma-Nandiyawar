@@ -9,9 +9,9 @@
 <p>
     My professional experience includes valuable internships at renowned organizations like REN-ISAC Indiana and Navy Federal Credit Union, where I actively participated in API gateway integration, cloud development, and DevSecOps practices. I have also gained experience working as an Associate Software Engineer at Accenture, where I successfully migrated multi-stack microservices to the cloud, containerized applications, and developed web API integrations.
 </p>
-<p>
+<!-- <p>
     I am eager to leverage my technical proficiency, problem-solving skills, and unwavering dedication to excellence to contribute significantly to your organization.
-</p>
+</p> -->
 <p>
     Connect with me on 
     <a href="https://www.linkedin.com/in/sushmanandiyawar" target="_blank">
@@ -128,12 +128,12 @@ Here are some ideas to get you started:
         &rarr;
     </a>
 </p>
-<h2>📈 GitHub Stats</h2>
+<!-- <h2>📈 GitHub Stats</h2>
 <hr>
 <p align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sushma-Nandiyawar&show_icons=true&theme=dark" />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushma-Nandiyawar&theme=dark&hide_border=true" />
-</p>
+</p> -->
 <h2>🔝 Languages Stats</h2>
 <hr>
 <p align="center">
